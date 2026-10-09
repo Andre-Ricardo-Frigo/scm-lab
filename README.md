@@ -1,4 +1,2 @@
-# SCM Lab
-
-## Perfil
-Estudante de Engenharia de Software, UTFPR.
+## Sobre o projeto
+Aplicação de exemplo para praticar o fluxo de trabalho com Git e GitHub.
